@@ -21,7 +21,7 @@
         </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" data-bs-toggle="collapse" href="#ui-basic" aria-expanded="false" aria-controls="ui-basic">
+        <a class="nav-link" href="{{ route('bustrip') }}">
           <span class="menu-title">Create a Trip</span>
           {{-- <i class="menu-arrow"></i> --}}
           <i class="mdi mdi-crosshairs-gps menu-icon"></i>
